@@ -7,9 +7,9 @@ Desafio proposto pela [Cubos Academy](https://cubos.academy/sucesso), tem como o
 
 :desktop_computer: Tecnologias usadas
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Node.Js](https://nodejs.org/en/docs/)
 - [Express](https://expressjs.com/pt-br/)
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [PostgreSQL](https://www.postgresql.org/)
 
 :running_woman: Como Executar
 ```cmd

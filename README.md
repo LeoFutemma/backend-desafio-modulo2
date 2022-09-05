@@ -9,7 +9,6 @@ Desafio proposto pela [Cubos Academy](https://cubos.academy/sucesso), tem como o
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.Js](https://nodejs.org/en/docs/)
 - [Express](https://expressjs.com/pt-br/)
-- [PostgreSQL](https://www.postgresql.org/)
 
 :running_woman: Como Executar
 ```cmd
